@@ -3,7 +3,7 @@
 	<li>Creator and see me in https://petershaan.com</li>
 	<li>I run a Youtube channel <a href="https://www.youtube.com/@petershaan_">Peter Shaan 🔥</a></li>
 	<li>Big ol tech fan</li>
-	<li>Programming all the time/li>
+	<li>Programming all the time</li>
 </ul>
 
 
