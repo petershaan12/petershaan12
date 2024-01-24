@@ -1,7 +1,14 @@
-### Hi there 👋
+<h3>Howdy, how ya doing? 🙌</h3>
+<ul>
+	<li>Creator and see me in https://petershaan.com</li>
+	<li>I run a Youtube channel <a href="https://www.youtube.com/@petershaan_">Peter Shaan 🔥</a></li>
+	<li>Big ol tech fan</li>
+	<li>Programming all the time/li>
+</ul>
+
 
 <!--
-**petershaan12/petershaan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**developedbyed/developedbyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
