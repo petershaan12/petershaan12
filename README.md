@@ -2,7 +2,7 @@
 <ul>
 	<li>Creator and see me in https://petershaan.com</li>
 	<li>I run a Youtube channel <a href="https://www.youtube.com/@petershaan_">Peter Shaan 🔥</a></li>
-	<li>Programming all the time</li>
+	<li>Programming addict 👨‍💻</li>
 </ul>
 
 ### Github Statistic
