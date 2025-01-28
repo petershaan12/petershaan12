@@ -1,6 +1,6 @@
 <h3>Howdy, how ya doing? 🙌</h3>
 <ul>
-	<li>Creator and see me in https://petershaan.com</li>
+	<li>Creator and see me in https://shaan.my.id</li>
 	<li>I run a Youtube channel <a href="https://www.youtube.com/@petershaan_">Peter Shaan 🔥</a></li>
 	<li>Programming addict 👨‍💻</li>
 </ul>
