@@ -2,7 +2,7 @@
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM3b2QyNDMxdWFkamx0eXJta2VmNnU3dWRscmYzd216cGRrdWR6aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif"
        alt="Coding GIF"
-       width="400"
+       width="200"
        style="border-radius: 8px;" />
  <ul style="list-style: none; padding-left: 0;">
 	<li>Creator and see me in https://petershaan.net/</li>
